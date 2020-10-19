@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "585131173109",
+    "firebase_url": "https://mailandcalendar-49956.firebaseio.com",
+    "project_id": "mailandcalendar-49956",
+    "storage_bucket": "mailandcalendar-49956.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585131173109:android:4c5fe7fea1b92179c211bc",
+        "android_client_info": {
+          "package_name": "com.saltechdigital.mailandcalendaruppa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585131173109-dild92he8rop4uapl6h4pohs72gpicu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpTPtMn_p4Goq1sb7byHWxBUk7FiGSFC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585131173109-dild92he8rop4uapl6h4pohs72gpicu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
